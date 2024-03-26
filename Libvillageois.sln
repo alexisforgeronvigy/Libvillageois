@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Libvillageois", "Libvillageois\Libvillageois.csproj", "{B6089511-127C-4BDD-94FB-89E3B3A62925}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CslVillageois", "CslVillageois\CslVillageois.csproj", "{CF251625-23BF-4A7B-BAA2-E59953FAD38A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6089511-127C-4BDD-94FB-89E3B3A62925}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6089511-127C-4BDD-94FB-89E3B3A62925}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6089511-127C-4BDD-94FB-89E3B3A62925}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6089511-127C-4BDD-94FB-89E3B3A62925}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF251625-23BF-4A7B-BAA2-E59953FAD38A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF251625-23BF-4A7B-BAA2-E59953FAD38A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF251625-23BF-4A7B-BAA2-E59953FAD38A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF251625-23BF-4A7B-BAA2-E59953FAD38A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A77BBCD-3180-4D98-AB05-EBF92690248F}
+	EndGlobalSection
+EndGlobal

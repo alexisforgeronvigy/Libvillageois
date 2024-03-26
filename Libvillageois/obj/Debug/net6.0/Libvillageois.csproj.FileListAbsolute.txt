@@ -1,0 +1,12 @@
+C:\Users\forgeron_vigy_a\source\repos\Libvillageois\Libvillageois\bin\Debug\net6.0\Libvillageois.deps.json
+C:\Users\forgeron_vigy_a\source\repos\Libvillageois\Libvillageois\bin\Debug\net6.0\Libvillageois.dll
+C:\Users\forgeron_vigy_a\source\repos\Libvillageois\Libvillageois\bin\Debug\net6.0\Libvillageois.pdb
+C:\Users\forgeron_vigy_a\source\repos\Libvillageois\Libvillageois\obj\Debug\net6.0\Libvillageois.csproj.AssemblyReference.cache
+C:\Users\forgeron_vigy_a\source\repos\Libvillageois\Libvillageois\obj\Debug\net6.0\Libvillageois.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\forgeron_vigy_a\source\repos\Libvillageois\Libvillageois\obj\Debug\net6.0\Libvillageois.AssemblyInfoInputs.cache
+C:\Users\forgeron_vigy_a\source\repos\Libvillageois\Libvillageois\obj\Debug\net6.0\Libvillageois.AssemblyInfo.cs
+C:\Users\forgeron_vigy_a\source\repos\Libvillageois\Libvillageois\obj\Debug\net6.0\Libvillageois.csproj.CoreCompileInputs.cache
+C:\Users\forgeron_vigy_a\source\repos\Libvillageois\Libvillageois\obj\Debug\net6.0\Libvillageois.dll
+C:\Users\forgeron_vigy_a\source\repos\Libvillageois\Libvillageois\obj\Debug\net6.0\refint\Libvillageois.dll
+C:\Users\forgeron_vigy_a\source\repos\Libvillageois\Libvillageois\obj\Debug\net6.0\Libvillageois.pdb
+C:\Users\forgeron_vigy_a\source\repos\Libvillageois\Libvillageois\obj\Debug\net6.0\ref\Libvillageois.dll

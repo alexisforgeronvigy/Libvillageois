@@ -1,0 +1,11 @@
+﻿using Libvillageois;
+Villageois a, b;
+string rep;
+a = new Villageois("Panoramix", 16, true);
+b = new Villageois("abraracourix");
+Console.WriteLine(b.get_poids());
+b.set_poids(26);
+Console.WriteLine(a.ToString());
+Console.WriteLine(a.get_nom());
+Console.WriteLine(a.get_poids());
+Console.WriteLine(a.poidsSouleve()+ "kg") ;

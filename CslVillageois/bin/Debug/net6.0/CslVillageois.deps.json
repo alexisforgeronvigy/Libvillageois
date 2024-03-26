@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CslVillageois/1.0.0": {
+        "dependencies": {
+          "Libvillageois": "1.0.0"
+        },
+        "runtime": {
+          "CslVillageois.dll": {}
+        }
+      },
+      "Libvillageois/1.0.0": {
+        "runtime": {
+          "Libvillageois.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CslVillageois/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Libvillageois/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
